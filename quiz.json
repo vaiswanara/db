@@ -1,74 +1,74 @@
 {
   "quiz": [
     {
-      "question": "Sun represents which of the following?",
-      "options": ["Father", "Mother", "Younger sibling", "Servants"],
+      "question": "Śani is nīca in which Rāśi?",
+      "options": ["Tulā", "Meṣa", "Karkaṭa", "Siṃha"],
+      "answer": "B",
+      "explanation": "Śani is debilitated (nīca) in Meṣa Rāśi and exalted (uccha) in Tulā Rāśi.",
+      "date": "21/02/2026"
+    },
+    {
+      "question": "Guru attains uccha in which Rāśi?",
+      "options": ["Dhanu", "Mīna", "Karkaṭa", "Vṛṣabha"],
+      "answer": "C",
+      "explanation": "Guru is exalted (uccha) in Karkaṭa Rāśi and debilitated (nīca) in Makara Rāśi.",
+      "date": "21/02/2026"
+    },
+    {
+      "question": "Maṅgala has special dṛṣṭi on which bhāvas from its placement?",
+      "options": ["5th and 9th", "3rd and 10th", "4th and 8th", "2nd and 12th"],
+      "answer": "C",
+      "explanation": "Maṅgala has special aspects (dṛṣṭi) on the 4th and 8th bhāvas in addition to the 7th.",
+      "date": "21/02/2026"
+    },
+    {
+      "question": "Śukra attains uccha in which Rāśi?",
+      "options": ["Mīna", "Tulā", "Vṛṣabha", "Makara"],
       "answer": "A",
-      "explanation": "Sun is the natural karaka for father, authority and soul.",
-      "date": "11/02/2026"
+      "explanation": "Śukra is exalted in Mīna Rāśi and debilitated in Kanyā Rāśi.",
+      "date": "21/02/2026"
     },
     {
-      "question": "Moon represents which mental quality?",
-      "options": ["Ego", "Mind & emotions", "Logic", "Courage"],
-      "answer": "B",
-      "explanation": "Moon signifies manas (mind), emotions and sensitivity.",
-      "date": "11/02/2026"
-    },
-    {
-      "question": "Mars is primarily associated with?",
-      "options": ["Knowledge", "Energy & courage", "Luxury", "Devotion"],
-      "answer": "B",
-      "explanation": "Mars gives energy, initiative, bravery and action.",
-      "date": "11/02/2026"
-    },
-    {
-      "question": "Mercury indicates?",
-      "options": ["Wisdom & spirituality", "Communication & intellect", "Wealth only", "Past life karma"],
-      "answer": "B",
-      "explanation": "Mercury rules speech, analysis, learning and communication.",
-      "date": "11/02/2026"
-    },
-    {
-      "question": "Jupiter is karaka for?",
-      "options": ["Children & wisdom", "Enemies", "Diseases", "Arguments"],
+      "question": "For Karkaṭa Lagna, which Graha is yogakāraka?",
+      "options": ["Maṅgala", "Śani", "Guru", "Budha"],
       "answer": "A",
-      "explanation": "Jupiter represents guru, knowledge, children and dharma.",
-      "date": "11/02/2026"
+      "explanation": "For Karkaṭa Lagna, Maṅgala rules the 5th and 10th bhāvas, making it a yogakāraka.",
+      "date": "21/02/2026"
     },
     {
-      "question": "Venus mainly signifies?",
-      "options": ["Detachment", "Luxury & relationships", "Punishment", "Loneliness"],
-      "answer": "B",
-      "explanation": "Venus governs love, comforts, marriage and arts.",
-      "date": "11/02/2026"
+      "question": "Rāhu placed in Mithuna Rāśi generally behaves similar to which Graha?",
+      "options": ["Maṅgala", "Śani", "Budha", "Guru"],
+      "answer": "C",
+      "explanation": "Rāhu tends to behave like the lord of the Rāśi it occupies; in Mithuna, it acts similar to Budha.",
+      "date": "21/02/2026"
     },
     {
-      "question": "Saturn teaches primarily?",
-      "options": ["Comforts", "Discipline & patience", "Pleasure", "Entertainment"],
-      "answer": "B",
-      "explanation": "Saturn brings delay, endurance and karmic lessons.",
-      "date": "11/02/2026"
+      "question": "Sūrya is nīca in which Rāśi?",
+      "options": ["Tulā", "Meṣa", "Karkaṭa", "Kumbha"],
+      "answer": "A",
+      "explanation": "Sūrya is debilitated in Tulā Rāśi and exalted in Meṣa Rāśi.",
+      "date": "21/02/2026"
     },
     {
-      "question": "Which planet shows thinking ability?",
-      "options": ["Moon", "Mercury", "Sun", "Mars"],
-      "answer": "B",
-      "explanation": "Mercury controls intellect, reasoning and calculation.",
-      "date": "11/02/2026"
+      "question": "Guru–Candra Gaja Keśarī Yoga is strongest when placed in which bhāvas?",
+      "options": ["6th, 8th, 12th", "3rd and 11th", "Kendras (1st, 4th, 7th, 10th)", "Only in dual Rāśis"],
+      "answer": "C",
+      "explanation": "Gaja Keśarī Yoga gives strongest results when Guru and Candra are placed in Kendras.",
+      "date": "21/02/2026"
     },
     {
-      "question": "Karaka for mother is?",
-      "options": ["Mars", "Moon", "Saturn", "Sun"],
+      "question": "Śani has special dṛṣṭi on which bhāvas from its placement?",
+      "options": ["4th and 8th", "3rd and 10th", "5th and 9th", "2nd and 12th"],
       "answer": "B",
-      "explanation": "Moon is the natural significator of mother and care.",
-      "date": "11/02/2026"
+      "explanation": "Śani has special aspects on the 3rd and 10th bhāvas in addition to the 7th.",
+      "date": "21/02/2026"
     },
     {
-      "question": "Which planet represents teacher or Guru?",
-      "options": ["Venus", "Jupiter", "Rahu", "Mercury"],
-      "answer": "B",
-      "explanation": "Jupiter is the guru and guide in Vedic astrology.",
-      "date": "11/02/2026"
+      "question": "Candra is nīca in which Rāśi?",
+      "options": ["Vṛścika", "Karkaṭa", "Mīna", "Dhanu"],
+      "answer": "A",
+      "explanation": "Candra is debilitated in Vṛścika Rāśi and exalted in Vṛṣabha Rāśi.",
+      "date": "21/02/2026"
     }
   ]
 }
